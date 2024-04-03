@@ -10,7 +10,7 @@ Materiais necessários:
 
 1. Python3
 2. Bibliotecas:
-  *Download OpenCV: Linux
+  *Download OpenCV: Linux;
   *Download Numpy
 Atividade:
 
